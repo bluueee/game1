@@ -2,7 +2,7 @@ import pygame
 import math
 
 #det virker
-
+#?
 pygame.init()
 
 display_width = 800
